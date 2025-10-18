@@ -45,8 +45,7 @@
                             break;
                     }
                 }
-            } while (option);
-                
+            } while (option);                
         }
     }
 }

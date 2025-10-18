@@ -16,8 +16,20 @@
             //AgeGroupClassification age = new();
             //age.Classify();
 
-            BasicOperationsCalculator calculator = new();
-            calculator.Calculate();
+            //BasicOperationsCalculator calculator = new();
+            //calculator.Calculate();
+
+            //PersonalizedGreeting greeting = new();
+            //greeting.Data();
+
+            //RewardSystem reward = new();
+            //reward.ShowReward();
+
+            //BookOrganization books = new();
+            //books.Organize();
+
+            UserAutentication autentication = new();
+            autentication.ShowWelcome();
         }
     }
 }
