@@ -1,0 +1,23 @@
+﻿namespace PracticingCSharp
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //ProductClassification product = new();
+            //product.Classify();
+
+            //GradesClassification grades = new();
+            //grades.Classify();
+
+            //CheckAccess checkAccess = new();
+            //checkAccess.Check();
+
+            //AgeGroupClassification age = new();
+            //age.Classify();
+
+            BasicOperationsCalculator calculator = new();
+            calculator.Calculate();
+        }
+    }
+}
