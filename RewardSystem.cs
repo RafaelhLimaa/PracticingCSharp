@@ -25,7 +25,7 @@
                     case 4: reward = "SPECIAL - Legendary Item"; check = false; enterData = choose; break;
                     default: Console.WriteLine("Invalid Enter. Try Again!"); check = true; break;
                 }
-            }while (check);
+            } while (check);
             Console.WriteLine($"Your choose is {enterData} and your reward is {reward}!");
         }
     }

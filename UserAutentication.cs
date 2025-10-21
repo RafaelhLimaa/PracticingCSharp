@@ -28,7 +28,7 @@
                         case 3: Console.WriteLine("Exit the system."); check = false; break;
                         default: Console.WriteLine("Enter not found. Try again."); check = true; break;
                     }
-                }while (check);
+                } while (check);
             }
         }
 

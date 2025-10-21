@@ -19,7 +19,6 @@
             {
                 Console.WriteLine("The number entered is invalid!.");
             }
-
         }
     }
 }

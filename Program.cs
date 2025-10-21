@@ -28,8 +28,14 @@
             //BookOrganization books = new();
             //books.Organize();
 
-            UserAutentication autentication = new();
-            autentication.ShowWelcome();
+            //UserAutentication autentication = new();
+            //autentication.ShowWelcome();
+
+            //AddSales sales = new();
+            //sales.Calculate();
+
+            //StockControl stock = new();
+            //stock.Play();
         }
     }
 }

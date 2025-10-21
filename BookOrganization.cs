@@ -35,7 +35,7 @@
                     case 9: book = "9: Young Adult"; check = false; break;
                     default: Console.WriteLine("Enter not found. Try Again!!!"); check = true; break;
                 }
-            }while (check);
+            } while (check);
             Console.WriteLine($"\nThe category of your book is {book}.");
         }
     }

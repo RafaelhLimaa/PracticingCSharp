@@ -10,13 +10,13 @@
 
             if (grade >= 9)
             {
-                Console.WriteLine("Your final grade is 'A'. You are aproved with the best grade!!"); 
+                Console.WriteLine("Your final grade is 'A'. You are aproved with the best grade!!");
             }
             else if (grade >= 7 && grade < 9)
             {
                 Console.WriteLine("Your final grade is 'B'. You are aproved with a medium grade!!");
             }
-            else if (grade >= 5  && grade < 7)
+            else if (grade >= 5 && grade < 7)
             {
                 Console.WriteLine("Your final grade is 'C'. You need to study more and do the exams again!!");
             }
